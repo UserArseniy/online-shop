@@ -1,2 +1,3 @@
 # online-shop
- first project
+TODO list: 
+1. Set GitHub 
